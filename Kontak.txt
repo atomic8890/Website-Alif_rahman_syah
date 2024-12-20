@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title> Kontak </title>
+	</head>
+	
+	<body>
+	<center>	Universitas Pamulang <br>
+				Jl. Surya Kencana No.1 Pamulang-Tangerang Selatan<br>
+				Website : www.unpam.ac.id<br>
+				Email   : info@unpam.ac.id<br>
+				Telepon : 021 - 7412566<br>
+				Fax		: 021 - 7412566<br>
+				
+			
